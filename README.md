@@ -1,7 +1,9 @@
-# Testing-repositorys
-TEST
+# Lycoris Project
+Este es el proyecto "Lycoris Squamigera" del grupo AcidRain.
 
-DESCÁRGATE SÉSAMO
-
-Hola y qué tal!
-
+Compuesto por: 
+- Andrea Cremades
+- Laura García
+- Aroa Talens
+- Sergio Espino
+- Patricia Muñoz
