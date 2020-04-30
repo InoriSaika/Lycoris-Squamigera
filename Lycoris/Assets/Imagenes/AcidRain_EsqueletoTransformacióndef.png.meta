@@ -1,61 +1,61 @@
 fileFormatVersion: 2
-guid: 3b37131cb8501f44facc1c87da1f6ebf
+guid: 1e6980d772a1e9d4ea1360882f8a151f
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5001150908080977586
-    second: Transf_001
+      213: -4701292370024933651
+    second: "AcidRain_EsqueletoTransformaci\xF3ndef_0"
   - first:
-      213: -8506123228552676211
-    second: Transf_002
+      213: 1038940421438662883
+    second: "AcidRain_EsqueletoTransformaci\xF3ndef_1"
   - first:
-      213: 4261119737118035382
-    second: Transf_003
+      213: -8157964511606349511
+    second: "AcidRain_EsqueletoTransformaci\xF3ndef_2"
   - first:
-      213: -8041720479683638748
-    second: Transf_004
+      213: -1675223218604851085
+    second: "AcidRain_EsqueletoTransformaci\xF3ndef_3"
   - first:
-      213: 4393042398009940904
-    second: Transf_005
+      213: 401747087448853957
+    second: "AcidRain_EsqueletoTransformaci\xF3ndef_4"
   - first:
-      213: -6215804245589553551
-    second: Transf_006
+      213: 3752287184923561166
+    second: "AcidRain_EsqueletoTransformaci\xF3ndef_5"
   - first:
-      213: 1615272946200996847
-    second: Transf_007
+      213: 7218852159039165580
+    second: "AcidRain_EsqueletoTransformaci\xF3ndef_6"
   - first:
-      213: 2197031359315156804
-    second: Transf_008
+      213: -7598128517262982763
+    second: "AcidRain_EsqueletoTransformaci\xF3ndef_7"
   - first:
-      213: 3807567730246184114
-    second: Transf_009
+      213: 4940302156551158606
+    second: "AcidRain_EsqueletoTransformaci\xF3ndef_8"
   - first:
-      213: 3025568925721424280
-    second: Transf_010
+      213: -197592938006715361
+    second: "AcidRain_EsqueletoTransformaci\xF3ndef_9"
   - first:
-      213: -3834050353540855327
-    second: Transf_011
+      213: -7410560748624891428
+    second: "AcidRain_EsqueletoTransformaci\xF3ndef_10"
   - first:
-      213: -4007030184248242845
-    second: Transf_012
+      213: 6621933099105704425
+    second: "AcidRain_EsqueletoTransformaci\xF3ndef_11"
   - first:
-      213: 4609250367500053090
-    second: Transf_013
+      213: -233927226640188607
+    second: "AcidRain_EsqueletoTransformaci\xF3ndef_12"
   - first:
-      213: -6193515118681530178
-    second: Transf_014
+      213: 5408136516502551978
+    second: "AcidRain_EsqueletoTransformaci\xF3ndef_13"
   - first:
-      213: 3006985113995765492
-    second: Transf_015
+      213: 1164340913294712996
+    second: "AcidRain_EsqueletoTransformaci\xF3ndef_14"
   - first:
-      213: -8643230170069993856
-    second: Transf_016
+      213: 8518150974339712706
+    second: "AcidRain_EsqueletoTransformaci\xF3ndef_15"
   - first:
-      213: -7570497801229659576
-    second: Transf_017
+      213: -8741764123318117555
+    second: "AcidRain_EsqueletoTransformaci\xF3ndef_16"
   - first:
-      213: 8155680009898917577
-    second: Transf_018
+      213: -7317693764426523190
+    second: "AcidRain_EsqueletoTransformaci\xF3ndef_17"
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -85,7 +85,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -97,9 +97,9 @@ TextureImporter:
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
-  alignment: 6
-  spritePivot: {x: 0, y: 0}
-  spritePixelsToUnits: 100
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -118,7 +118,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -130,7 +130,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -141,379 +141,379 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Transf_001
+      name: "AcidRain_EsqueletoTransformaci\xF3ndef_0"
       rect:
         serializedVersion: 2
-        x: 45
-        y: 515
-        width: 40
-        height: 114
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2b6f940f048a76540800000000000000
-      internalID: 5001150908080977586
+      spriteID: de6d86b7f77a1ceb0800000000000000
+      internalID: -4701292370024933651
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Transf_002
+      name: "AcidRain_EsqueletoTransformaci\xF3ndef_1"
       rect:
         serializedVersion: 2
-        x: 166
-        y: 515
-        width: 55
-        height: 106
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 512
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d8c3b62bdfd24f980800000000000000
-      internalID: -8506123228552676211
+      spriteID: 3e865aa0fce0b6e00800000000000000
+      internalID: 1038940421438662883
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Transf_003
+      name: "AcidRain_EsqueletoTransformaci\xF3ndef_2"
       rect:
         serializedVersion: 2
-        x: 282
-        y: 515
-        width: 59
-        height: 101
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1024
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6bd835413d9822b30800000000000000
-      internalID: 4261119737118035382
+      spriteID: 931e57bdf7619ce80800000000000000
+      internalID: -8157964511606349511
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Transf_004
+      name: "AcidRain_EsqueletoTransformaci\xF3ndef_3"
       rect:
         serializedVersion: 2
-        x: 400
-        y: 515
-        width: 69
-        height: 100
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1536
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 42a0971a4d1166090800000000000000
-      internalID: -8041720479683638748
+      spriteID: 370429fbb5960c8e0800000000000000
+      internalID: -1675223218604851085
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Transf_005
+      name: "AcidRain_EsqueletoTransformaci\xF3ndef_4"
       rect:
         serializedVersion: 2
-        x: 12
-        y: 387
-        width: 72
-        height: 95
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8abdc9029c837fc30800000000000000
-      internalID: 4393042398009940904
+      spriteID: 5cdcfe4f8da439500800000000000000
+      internalID: 401747087448853957
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Transf_006
+      name: "AcidRain_EsqueletoTransformaci\xF3ndef_5"
       rect:
         serializedVersion: 2
-        x: 140
-        y: 387
-        width: 72
-        height: 97
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 512
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 17e054ca8f60db9a0800000000000000
-      internalID: -6215804245589553551
+      spriteID: ecc8e90705dc21430800000000000000
+      internalID: 3752287184923561166
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Transf_007
+      name: "AcidRain_EsqueletoTransformaci\xF3ndef_6"
       rect:
         serializedVersion: 2
-        x: 268
-        y: 387
-        width: 72
-        height: 98
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1024
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: febeb9dbf2a9a6610800000000000000
-      internalID: 1615272946200996847
+      spriteID: c845791aac38e2460800000000000000
+      internalID: 7218852159039165580
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Transf_008
+      name: "AcidRain_EsqueletoTransformaci\xF3ndef_7"
       rect:
         serializedVersion: 2
-        x: 402
-        y: 387
-        width: 65
-        height: 103
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1536
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 44f9f54816c6d7e10800000000000000
-      internalID: 2197031359315156804
+      spriteID: 59146c2ce560e8690800000000000000
+      internalID: -7598128517262982763
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Transf_009
+      name: "AcidRain_EsqueletoTransformaci\xF3ndef_8"
       rect:
         serializedVersion: 2
-        x: 28
-        y: 259
-        width: 56
-        height: 107
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2bc60936da237d430800000000000000
-      internalID: 3807567730246184114
+      spriteID: e4bf354f2aa7f8440800000000000000
+      internalID: 4940302156551158606
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Transf_010
+      name: "AcidRain_EsqueletoTransformaci\xF3ndef_9"
       rect:
         serializedVersion: 2
-        x: 153
-        y: 259
-        width: 63
-        height: 110
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 512
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 891f51568eafcf920800000000000000
-      internalID: 3025568925721424280
+      spriteID: f14ebff0542024df0800000000000000
+      internalID: -197592938006715361
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Transf_011
+      name: "AcidRain_EsqueletoTransformaci\xF3ndef_10"
       rect:
         serializedVersion: 2
-        x: 275
-        y: 259
-        width: 77
-        height: 111
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1024
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1e98c326487bacac0800000000000000
-      internalID: -3834050353540855327
+      spriteID: cd1b2cf0346682990800000000000000
+      internalID: -7410560748624891428
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Transf_012
+      name: "AcidRain_EsqueletoTransformaci\xF3ndef_11"
       rect:
         serializedVersion: 2
-        x: 397
-        y: 259
-        width: 99
-        height: 120
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1536
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 36d8d9f074b2468c0800000000000000
-      internalID: -4007030184248242845
+      spriteID: 9e9d892b115d5eb50800000000000000
+      internalID: 6621933099105704425
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Transf_013
+      name: "AcidRain_EsqueletoTransformaci\xF3ndef_12"
       rect:
         serializedVersion: 2
-        x: 3
-        y: 131
-        width: 116
-        height: 122
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 26aeda3d9c857ff30800000000000000
-      internalID: 4609250367500053090
+      spriteID: 14bb1d04d6ce0ccf0800000000000000
+      internalID: -233927226640188607
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Transf_014
+      name: "AcidRain_EsqueletoTransformaci\xF3ndef_13"
       rect:
         serializedVersion: 2
-        x: 130
-        y: 131
-        width: 123
-        height: 124
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 512
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eb0e9ff60d63c0aa0800000000000000
-      internalID: -6193515118681530178
+      spriteID: aadf3fa128f8d0b40800000000000000
+      internalID: 5408136516502551978
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Transf_015
+      name: "AcidRain_EsqueletoTransformaci\xF3ndef_14"
       rect:
         serializedVersion: 2
-        x: 260
-        y: 131
-        width: 119
-        height: 124
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1024
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4f6ea9c8705fab920800000000000000
-      internalID: 3006985113995765492
+      spriteID: 4a0a26644e1982010800000000000000
+      internalID: 1164340913294712996
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Transf_016
+      name: "AcidRain_EsqueletoTransformaci\xF3ndef_15"
       rect:
         serializedVersion: 2
-        x: 388
-        y: 131
-        width: 115
-        height: 123
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1536
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 086f90144f31d0880800000000000000
-      internalID: -8643230170069993856
+      spriteID: 2c68aa81e2d863670800000000000000
+      internalID: 8518150974339712706
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Transf_017
+      name: "AcidRain_EsqueletoTransformaci\xF3ndef_16"
       rect:
         serializedVersion: 2
-        x: 4
-        y: 3
-        width: 115
-        height: 119
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 84294d82c5030f690800000000000000
-      internalID: -7570497801229659576
+      spriteID: d4b9e5f78d30fa680800000000000000
+      internalID: -8741764123318117555
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Transf_018
+      name: "AcidRain_EsqueletoTransformaci\xF3ndef_17"
       rect:
         serializedVersion: 2
-        x: 132
-        y: 3
-        width: 115
-        height: 114
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 512
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9ce77c322cbce2170800000000000000
-      internalID: 8155680009898917577
+      spriteID: acd1444ca44527a90800000000000000
+      internalID: -7317693764426523190
       vertices: []
       indices: 
       edges: []
