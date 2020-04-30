@@ -1,0 +1,17 @@
+Hola chicos, lo que tenéis que hacer es meter vuestros sprites, cortarlos y generar las animaciones, pero no animarlas en sí, sino generar el archivo donde se van a "guardar".
+
+Si os fijáis, he creado dentro de assets varias carpetas, interesa mantener la organización para poder acceder a todo más fácilmente. 
+Tenéis que subir las spritesheets a la carpeta de imágenes y seguir los tutoriales del PoliformaT de Ramón en Seminarios:
+
+Conviene seguir este orden: 
+
+- Herramientas de Sprites 3D (o el video de herramientas de gestión de sprites 3D)
+- Troceado de sprites en Unity 3D (o el video)
+- Animación y estados de sprites en Unity 3D (o como siempre, el video)
+
+Recordad hacer el proceso de sincronización de GitHub con el local primero para poder subir y bajar los archivos, y cuando sincroniceis, seleccionar la carpeta Assets y ProjectSettings (click derecho) > Git Commit -> "master"...
+
+Solo de esas dos carpetas, Library, Logs y Packages están por defecto en todos los pcs y NO HACEN FALTA.
+
+Una vez esté todo se crea la máquina de estados y se avanza, pero yo no puedo cargarme todo y más si faltan cosas y sprites. 
+Buen día y disfrutad de Unity!
