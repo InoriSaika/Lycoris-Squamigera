@@ -159,38 +159,128 @@ TextureImporter:
       213: 282586660178442258
     second: EquipoAcidRain_EsqueletoLianas_51
   - first:
-      213: -2807059739677670396
-    second: EquipoAcidRain_EsqueletoLianas_52
+      213: 3287644841165631298
+    second: EquipoAcidRain_EsqueletoLianas_0
   - first:
-      213: -922519392017605041
-    second: EquipoAcidRain_EsqueletoLianas_53
+      213: 2012051200898527656
+    second: EquipoAcidRain_EsqueletoLianas_1
   - first:
-      213: -9150829702954602553
-    second: EquipoAcidRain_EsqueletoLianas_54
+      213: 2674267204284514257
+    second: EquipoAcidRain_EsqueletoLianas_2
   - first:
-      213: -2737096944923155383
-    second: EquipoAcidRain_EsqueletoLianas_55
+      213: 6133952076665423552
+    second: EquipoAcidRain_EsqueletoLianas_3
   - first:
-      213: 1181721708470881473
-    second: EquipoAcidRain_EsqueletoLianas_56
+      213: -2570560435343143479
+    second: EquipoAcidRain_EsqueletoLianas_4
   - first:
-      213: -6322747125831592736
-    second: EquipoAcidRain_EsqueletoLianas_57
+      213: 5816544560754912426
+    second: EquipoAcidRain_EsqueletoLianas_5
   - first:
-      213: 6007273756654426525
-    second: EquipoAcidRain_EsqueletoLianas_58
+      213: 7479962159523151350
+    second: EquipoAcidRain_EsqueletoLianas_6
   - first:
-      213: -971315255610828621
-    second: EquipoAcidRain_EsqueletoLianas_59
+      213: -7276181033019001333
+    second: EquipoAcidRain_EsqueletoLianas_7
   - first:
-      213: -411136007866755286
-    second: EquipoAcidRain_EsqueletoLianas_60
+      213: -3117267455521236489
+    second: EquipoAcidRain_EsqueletoLianas_8
   - first:
-      213: -3944262175484221920
-    second: EquipoAcidRain_EsqueletoLianas_61
+      213: 2256374189166727707
+    second: EquipoAcidRain_EsqueletoLianas_9
   - first:
-      213: -3333332979086567789
-    second: EquipoAcidRain_EsqueletoLianas_62
+      213: 6485673820102238405
+    second: EquipoAcidRain_EsqueletoLianas_10
+  - first:
+      213: -2252646793532092
+    second: EquipoAcidRain_EsqueletoLianas_11
+  - first:
+      213: 6413187408673598189
+    second: EquipoAcidRain_EsqueletoLianas_12
+  - first:
+      213: 8228626263360425505
+    second: EquipoAcidRain_EsqueletoLianas_13
+  - first:
+      213: 6046482829999946021
+    second: EquipoAcidRain_EsqueletoLianas_14
+  - first:
+      213: -7388728201026604524
+    second: EquipoAcidRain_EsqueletoLianas_15
+  - first:
+      213: -2306343918251251590
+    second: EquipoAcidRain_EsqueletoLianas_16
+  - first:
+      213: 3446603433343127670
+    second: EquipoAcidRain_EsqueletoLianas_17
+  - first:
+      213: -4371727804508503025
+    second: EquipoAcidRain_EsqueletoLianas_18
+  - first:
+      213: 6676101373281670901
+    second: EquipoAcidRain_EsqueletoLianas_19
+  - first:
+      213: -6331347831243982663
+    second: EquipoAcidRain_EsqueletoLianas_20
+  - first:
+      213: -4572655703410106173
+    second: EquipoAcidRain_EsqueletoLianas_21
+  - first:
+      213: -3603382635955911432
+    second: EquipoAcidRain_EsqueletoLianas_22
+  - first:
+      213: 3686808439929480648
+    second: EquipoAcidRain_EsqueletoLianas_23
+  - first:
+      213: -223456863009894698
+    second: EquipoAcidRain_EsqueletoLianas_24
+  - first:
+      213: -3291328122316130856
+    second: EquipoAcidRain_EsqueletoLianas_25
+  - first:
+      213: -18112055195083300
+    second: EquipoAcidRain_EsqueletoLianas_26
+  - first:
+      213: 6902175224782934955
+    second: EquipoAcidRain_EsqueletoLianas_27
+  - first:
+      213: -2143668427477702696
+    second: EquipoAcidRain_EsqueletoLianas_28
+  - first:
+      213: 2887314535303309293
+    second: EquipoAcidRain_EsqueletoLianas_29
+  - first:
+      213: -1868573125442867567
+    second: EquipoAcidRain_EsqueletoLianas_30
+  - first:
+      213: 1710317330729096655
+    second: EquipoAcidRain_EsqueletoLianas_31
+  - first:
+      213: -7623104423526517076
+    second: EquipoAcidRain_EsqueletoLianas_32
+  - first:
+      213: -1042575908531394447
+    second: EquipoAcidRain_EsqueletoLianas_33
+  - first:
+      213: -6574273835544409490
+    second: EquipoAcidRain_EsqueletoLianas_34
+  - first:
+      213: -3748343256283570531
+    second: EquipoAcidRain_EsqueletoLianas_35
+  - first:
+      213: 4779342545214126094
+    second: EquipoAcidRain_EsqueletoLianas_36
+  - first:
+      213: -6591354628632787438
+    second: EquipoAcidRain_EsqueletoLianas_37
+  - first:
+      213: -7145438604418567903
+    second: EquipoAcidRain_EsqueletoLianas_38
+  - first:
+      213: -7587707786614267512
+    second: EquipoAcidRain_EsqueletoLianas_39
+  - first:
+      213: 1162619916591946255
+    second: EquipoAcidRain_EsqueletoLianas_40
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -220,7 +310,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: -1
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -272,18 +362,6 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -291,19 +369,19 @@ TextureImporter:
       name: EquipoAcidRain_EsqueletoLianas_0
       rect:
         serializedVersion: 2
-        x: 134
-        y: 2313
-        width: 122
-        height: 344
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7845d15ea72f4e460800000000000000
-      internalID: 7270202308126659719
+      spriteID: 24fa259709f00ad20800000000000000
+      internalID: 3287644841165631298
       vertices: []
       indices: 
       edges: []
@@ -312,19 +390,19 @@ TextureImporter:
       name: EquipoAcidRain_EsqueletoLianas_1
       rect:
         serializedVersion: 2
-        x: 498
-        y: 2313
-        width: 169
-        height: 344
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 512
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f444b5ecf8ad3ed50800000000000000
-      internalID: 6765491376417883215
+      spriteID: 8a1747b28ed3ceb10800000000000000
+      internalID: 2012051200898527656
       vertices: []
       indices: 
       edges: []
@@ -333,19 +411,19 @@ TextureImporter:
       name: EquipoAcidRain_EsqueletoLianas_2
       rect:
         serializedVersion: 2
-        x: 878
-        y: 2313
-        width: 188
-        height: 340
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1028
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 31652640e81ef87d0800000000000000
-      internalID: -2913862433810262509
+      spriteID: 1dffad97ad7ec1520800000000000000
+      internalID: 2674267204284514257
       vertices: []
       indices: 
       edges: []
@@ -354,19 +432,19 @@ TextureImporter:
       name: EquipoAcidRain_EsqueletoLianas_3
       rect:
         serializedVersion: 2
-        x: 1172
-        y: 2313
-        width: 284
-        height: 334
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1536
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a4e28c8a4ffaf5d00800000000000000
-      internalID: 963682310619147850
+      spriteID: 0c689e62aec202550800000000000000
+      internalID: 6133952076665423552
       vertices: []
       indices: 
       edges: []
@@ -375,19 +453,19 @@ TextureImporter:
       name: EquipoAcidRain_EsqueletoLianas_4
       rect:
         serializedVersion: 2
-        x: 1623
-        y: 2486
-        width: 4
-        height: 5
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 2048
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7e86b9b750a158be0800000000000000
-      internalID: -1475744692043028249
+      spriteID: 9cdc2b947e8835cd0800000000000000
+      internalID: -2570560435343143479
       vertices: []
       indices: 
       edges: []
@@ -396,19 +474,19 @@ TextureImporter:
       name: EquipoAcidRain_EsqueletoLianas_5
       rect:
         serializedVersion: 2
-        x: 1628
-        y: 2483
-        width: 5
-        height: 6
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 2560
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 219005b6a31dcefb0800000000000000
-      internalID: -4617085469122885358
+      spriteID: aace60ce57488b050800000000000000
+      internalID: 5816544560754912426
       vertices: []
       indices: 
       edges: []
@@ -417,19 +495,19 @@ TextureImporter:
       name: EquipoAcidRain_EsqueletoLianas_6
       rect:
         serializedVersion: 2
-        x: 1670
-        y: 2313
-        width: 176
-        height: 334
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dd8c31e9d2ebf2110800000000000000
-      internalID: 1238417525685078237
+      spriteID: 6fdbdbb14f92ec760800000000000000
+      internalID: 7479962159523151350
       vertices: []
       indices: 
       edges: []
@@ -438,19 +516,19 @@ TextureImporter:
       name: EquipoAcidRain_EsqueletoLianas_7
       rect:
         serializedVersion: 2
-        x: 2055
-        y: 2313
-        width: 190
-        height: 334
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 512
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7291d309228cb1aa0800000000000000
-      internalID: -6189133212116248281
+      spriteID: b06b77db6efc50b90800000000000000
+      internalID: -7276181033019001333
       vertices: []
       indices: 
       edges: []
@@ -459,19 +537,19 @@ TextureImporter:
       name: EquipoAcidRain_EsqueletoLianas_8
       rect:
         serializedVersion: 2
-        x: 2249
-        y: 2474
-        width: 17
-        height: 8
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1024
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 08b8f8e56eb31ea40800000000000000
-      internalID: 5395659689181547392
+      spriteID: 7f955c3e3cd3db4d0800000000000000
+      internalID: -3117267455521236489
       vertices: []
       indices: 
       edges: []
@@ -480,19 +558,19 @@ TextureImporter:
       name: EquipoAcidRain_EsqueletoLianas_9
       rect:
         serializedVersion: 2
-        x: 1625
-        y: 2444
-        width: 27
-        height: 26
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1554
+        y: 2566
+        width: 324
+        height: 452
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 68a46017eebee7c50800000000000000
-      internalID: 6665023907885894278
+      spriteID: b1294a9ce50405f10800000000000000
+      internalID: 2256374189166727707
       vertices: []
       indices: 
       edges: []
@@ -501,19 +579,19 @@ TextureImporter:
       name: EquipoAcidRain_EsqueletoLianas_10
       rect:
         serializedVersion: 2
-        x: 1652
-        y: 2450
-        width: 23
-        height: 20
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 2048
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f294eeb8f87a5f660800000000000000
-      internalID: 7419020196132571439
+      spriteID: 5c0ae301afdb10a50800000000000000
+      internalID: 6485673820102238405
       vertices: []
       indices: 
       edges: []
@@ -522,19 +600,19 @@ TextureImporter:
       name: EquipoAcidRain_EsqueletoLianas_11
       rect:
         serializedVersion: 2
-        x: 131
-        y: 1928
-        width: 195
-        height: 335
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 2560
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a44e6c4c275032b60800000000000000
-      internalID: 7720020176728941642
+      spriteID: 44d211cca3ff7fff0800000000000000
+      internalID: -2252646793532092
       vertices: []
       indices: 
       edges: []
@@ -543,19 +621,19 @@ TextureImporter:
       name: EquipoAcidRain_EsqueletoLianas_12
       rect:
         serializedVersion: 2
-        x: 515
-        y: 1928
-        width: 194
-        height: 335
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 205d21a3e38ae40d0800000000000000
-      internalID: -3436624480421358334
+      spriteID: dea6ffb38f7300950800000000000000
+      internalID: 6413187408673598189
       vertices: []
       indices: 
       edges: []
@@ -564,19 +642,19 @@ TextureImporter:
       name: EquipoAcidRain_EsqueletoLianas_13
       rect:
         serializedVersion: 2
-        x: 899
-        y: 1928
-        width: 134
-        height: 332
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 512
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0ecf53adc0bfbda90800000000000000
-      internalID: -7287955539349865248
+      spriteID: 12e4c094df3f13270800000000000000
+      internalID: 8228626263360425505
       vertices: []
       indices: 
       edges: []
@@ -585,19 +663,19 @@ TextureImporter:
       name: EquipoAcidRain_EsqueletoLianas_14
       rect:
         serializedVersion: 2
-        x: 1037
-        y: 2117
-        width: 17
-        height: 20
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1024
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9730dc962581da9d0800000000000000
-      internalID: -2761524254266817671
+      spriteID: 52935a6291c69e350800000000000000
+      internalID: 6046482829999946021
       vertices: []
       indices: 
       edges: []
@@ -606,19 +684,19 @@ TextureImporter:
       name: EquipoAcidRain_EsqueletoLianas_15
       rect:
         serializedVersion: 2
-        x: 1166
-        y: 1925
-        width: 241
-        height: 338
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1536
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: db101bdcd6ee92710800000000000000
-      internalID: 1669127292287254973
+      spriteID: 412f5eb29d6f57990800000000000000
+      internalID: -7388728201026604524
       vertices: []
       indices: 
       edges: []
@@ -627,19 +705,19 @@ TextureImporter:
       name: EquipoAcidRain_EsqueletoLianas_16
       rect:
         serializedVersion: 2
-        x: 1553
-        y: 1925
-        width: 239
-        height: 338
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 2048
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bf67cb8f621beb830800000000000000
-      internalID: 4088900292638963451
+      spriteID: a7860c60d683effd0800000000000000
+      internalID: -2306343918251251590
       vertices: []
       indices: 
       edges: []
@@ -648,19 +726,19 @@ TextureImporter:
       name: EquipoAcidRain_EsqueletoLianas_17
       rect:
         serializedVersion: 2
-        x: 1936
-        y: 1925
-        width: 239
-        height: 338
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 2560
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e7cf03a0fb915b2f0800000000000000
-      internalID: -957831037445931906
+      spriteID: 6701f0ecf8bc4df20800000000000000
+      internalID: 3446603433343127670
       vertices: []
       indices: 
       edges: []
@@ -669,19 +747,19 @@ TextureImporter:
       name: EquipoAcidRain_EsqueletoLianas_18
       rect:
         serializedVersion: 2
-        x: 1025
-        y: 2075
-        width: 23
-        height: 32
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 155b7d18c10ccac80800000000000000
-      internalID: -8310055983735392943
+      spriteID: f04829569b08453c0800000000000000
+      internalID: -4371727804508503025
       vertices: []
       indices: 
       edges: []
@@ -690,19 +768,19 @@ TextureImporter:
       name: EquipoAcidRain_EsqueletoLianas_19
       rect:
         serializedVersion: 2
-        x: 1058
-        y: 2105
-        width: 11
-        height: 11
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 512
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eec492abb0e9c0070800000000000000
-      internalID: 8074002005173554414
+      spriteID: 5f693f6d3d646ac50800000000000000
+      internalID: 6676101373281670901
       vertices: []
       indices: 
       edges: []
@@ -711,19 +789,19 @@ TextureImporter:
       name: EquipoAcidRain_EsqueletoLianas_20
       rect:
         serializedVersion: 2
-        x: 1031
-        y: 2057
-        width: 11
-        height: 12
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1024
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4c6c9fa30ab60d190800000000000000
-      internalID: -7939727807125797180
+      spriteID: 9b8334141b88228a0800000000000000
+      internalID: -6331347831243982663
       vertices: []
       indices: 
       edges: []
@@ -732,19 +810,19 @@ TextureImporter:
       name: EquipoAcidRain_EsqueletoLianas_21
       rect:
         serializedVersion: 2
-        x: 20
-        y: 1541
-        width: 236
-        height: 339
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1536
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 72bb3e6a2b3e00b70800000000000000
-      internalID: 8863334423108762407
+      spriteID: 3c0a31e5dd9aa80c0800000000000000
+      internalID: -4572655703410106173
       vertices: []
       indices: 
       edges: []
@@ -753,19 +831,19 @@ TextureImporter:
       name: EquipoAcidRain_EsqueletoLianas_22
       rect:
         serializedVersion: 2
-        x: 407
-        y: 1725
-        width: 8
-        height: 8
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 2048
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1f5740fc7647f9b90800000000000000
-      internalID: -7232934487330097679
+      spriteID: 8f4890a85963efdc0800000000000000
+      internalID: -3603382635955911432
       vertices: []
       indices: 
       edges: []
@@ -774,19 +852,19 @@ TextureImporter:
       name: EquipoAcidRain_EsqueletoLianas_23
       rect:
         serializedVersion: 2
-        x: 416
-        y: 1541
-        width: 223
-        height: 339
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 2560
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b4eafcc37dce6bd10800000000000000
-      internalID: 2141159082043616843
+      spriteID: 8c5a8e81ebc2a2330800000000000000
+      internalID: 3686808439929480648
       vertices: []
       indices: 
       edges: []
@@ -795,19 +873,19 @@ TextureImporter:
       name: EquipoAcidRain_EsqueletoLianas_24
       rect:
         serializedVersion: 2
-        x: 893
-        y: 1541
-        width: 182
-        height: 329
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 430d9ce1d05f6bb80800000000000000
-      internalID: -8379240619976306636
+      spriteID: 6de0ca1ca2f16ecf0800000000000000
+      internalID: -223456863009894698
       vertices: []
       indices: 
       edges: []
@@ -816,19 +894,19 @@ TextureImporter:
       name: EquipoAcidRain_EsqueletoLianas_25
       rect:
         serializedVersion: 2
-        x: 1277
-        y: 1541
-        width: 206
-        height: 304
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 512
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0aa0e0b13607111d0800000000000000
-      internalID: -3381798274220553568
+      spriteID: 8d5f71ec28ad252d0800000000000000
+      internalID: -3291328122316130856
       vertices: []
       indices: 
       edges: []
@@ -837,19 +915,19 @@ TextureImporter:
       name: EquipoAcidRain_EsqueletoLianas_26
       rect:
         serializedVersion: 2
-        x: 1661
-        y: 1541
-        width: 254
-        height: 314
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1024
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 473c9346f2e4201a0800000000000000
-      internalID: -6844822518197795980
+      spriteID: cddd1f78e27afbff0800000000000000
+      internalID: -18112055195083300
       vertices: []
       indices: 
       edges: []
@@ -858,19 +936,19 @@ TextureImporter:
       name: EquipoAcidRain_EsqueletoLianas_27
       rect:
         serializedVersion: 2
-        x: 2045
-        y: 1541
-        width: 254
-        height: 320
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1536
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 24ce5810801b46560800000000000000
-      internalID: 7306159143445195842
+      spriteID: ba350b23cc379cf50800000000000000
+      internalID: 6902175224782934955
       vertices: []
       indices: 
       edges: []
@@ -879,19 +957,19 @@ TextureImporter:
       name: EquipoAcidRain_EsqueletoLianas_28
       rect:
         serializedVersion: 2
-        x: 404
-        y: 1712
-        width: 11
-        height: 7
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 2048
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: df5cfafd8116feac0800000000000000
-      internalID: -3823730799154313731
+      spriteID: 8d7a8ff3ce82042e0800000000000000
+      internalID: -2143668427477702696
       vertices: []
       indices: 
       edges: []
@@ -900,19 +978,19 @@ TextureImporter:
       name: EquipoAcidRain_EsqueletoLianas_29
       rect:
         serializedVersion: 2
-        x: 866
-        y: 1622
-        width: 18
-        height: 13
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 2560
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b7fda066da733b8d0800000000000000
-      internalID: -2831858522805051525
+      spriteID: de7639fa54dc11820800000000000000
+      internalID: 2887314535303309293
       vertices: []
       indices: 
       edges: []
@@ -921,19 +999,19 @@ TextureImporter:
       name: EquipoAcidRain_EsqueletoLianas_30
       rect:
         serializedVersion: 2
-        x: 143
-        y: 1160
-        width: 230
-        height: 368
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c039854f80fe9b420800000000000000
-      internalID: 2646409077795099404
+      spriteID: 19ee22d74ae7116e0800000000000000
+      internalID: -1868573125442867567
       vertices: []
       indices: 
       edges: []
@@ -942,19 +1020,19 @@ TextureImporter:
       name: EquipoAcidRain_EsqueletoLianas_31
       rect:
         serializedVersion: 2
-        x: 526
-        y: 1160
-        width: 231
-        height: 377
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 512
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 279b6b5534367f8d0800000000000000
-      internalID: -2812670301417588366
+      spriteID: fc55d47fc844cb710800000000000000
+      internalID: 1710317330729096655
       vertices: []
       indices: 
       edges: []
@@ -963,19 +1041,19 @@ TextureImporter:
       name: EquipoAcidRain_EsqueletoLianas_32
       rect:
         serializedVersion: 2
-        x: 911
-        y: 1160
-        width: 230
-        height: 377
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1024
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 072cbe781b6c8c710800000000000000
-      internalID: 1713838124006359664
+      spriteID: ca63efd6aea453690800000000000000
+      internalID: -7623104423526517076
       vertices: []
       indices: 
       edges: []
@@ -984,19 +1062,19 @@ TextureImporter:
       name: EquipoAcidRain_EsqueletoLianas_33
       rect:
         serializedVersion: 2
-        x: 1294
-        y: 1160
-        width: 231
-        height: 368
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1536
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8446aae94f5a1d210800000000000000
-      internalID: 1356047432867800136
+      spriteID: 1782b982cb60881f0800000000000000
+      internalID: -1042575908531394447
       vertices: []
       indices: 
       edges: []
@@ -1005,19 +1083,19 @@ TextureImporter:
       name: EquipoAcidRain_EsqueletoLianas_34
       rect:
         serializedVersion: 2
-        x: 1679
-        y: 1160
-        width: 230
-        height: 368
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 2048
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 65a25945e81ea2e10800000000000000
-      internalID: 2173797771580353110
+      spriteID: e6a0b3057cc73c4a0800000000000000
+      internalID: -6574273835544409490
       vertices: []
       indices: 
       edges: []
@@ -1026,19 +1104,19 @@ TextureImporter:
       name: EquipoAcidRain_EsqueletoLianas_35
       rect:
         serializedVersion: 2
-        x: 2062
-        y: 1154
-        width: 231
-        height: 374
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 2560
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 612903682c83bc0a0800000000000000
-      internalID: -6860327199242677738
+      spriteID: d9e9cf00ba53bfbc0800000000000000
+      internalID: -3748343256283570531
       vertices: []
       indices: 
       edges: []
@@ -1047,19 +1125,19 @@ TextureImporter:
       name: EquipoAcidRain_EsqueletoLianas_36
       rect:
         serializedVersion: 2
-        x: 140
-        y: 773
-        width: 233
-        height: 372
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 758b0f8a9e195d540800000000000000
-      internalID: 5032088591404152919
+      spriteID: e08366b09b2a35240800000000000000
+      internalID: 4779342545214126094
       vertices: []
       indices: 
       edges: []
@@ -1068,19 +1146,19 @@ TextureImporter:
       name: EquipoAcidRain_EsqueletoLianas_37
       rect:
         serializedVersion: 2
-        x: 467
-        y: 899
-        width: 6
-        height: 5
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 512
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ca3c7f3dd2884cf90800000000000000
-      internalID: -6934267795832585300
+      spriteID: 21647b343edc684a0800000000000000
+      internalID: -6591354628632787438
       vertices: []
       indices: 
       edges: []
@@ -1089,19 +1167,19 @@ TextureImporter:
       name: EquipoAcidRain_EsqueletoLianas_38
       rect:
         serializedVersion: 2
-        x: 505
-        y: 788
-        width: 252
-        height: 353
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1024
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ed0989b76631fa380800000000000000
-      internalID: -8957919802935439138
+      spriteID: 121b44b827d46dc90800000000000000
+      internalID: -7145438604418567903
       vertices: []
       indices: 
       edges: []
@@ -1110,502 +1188,19 @@ TextureImporter:
       name: EquipoAcidRain_EsqueletoLianas_39
       rect:
         serializedVersion: 2
-        x: 851
-        y: 899
-        width: 5
-        height: 5
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 278
+        width: 3072
+        height: 3284
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3fd854204ad097ea0800000000000000
-      internalID: -5874649240864190989
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: EquipoAcidRain_EsqueletoLianas_40
-      rect:
-        serializedVersion: 2
-        x: 878
-        y: 839
-        width: 263
-        height: 302
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 306b59d03c6bf3c70800000000000000
-      internalID: 8953075533098628611
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: EquipoAcidRain_EsqueletoLianas_41
-      rect:
-        serializedVersion: 2
-        x: 1224
-        y: 857
-        width: 301
-        height: 284
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e03c9330b62beed70800000000000000
-      internalID: 9074386471883490062
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: EquipoAcidRain_EsqueletoLianas_42
-      rect:
-        serializedVersion: 2
-        x: 1583
-        y: 839
-        width: 326
-        height: 302
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 58ef32941d7397ee0800000000000000
-      internalID: -1262916848485925243
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: EquipoAcidRain_EsqueletoLianas_43
-      rect:
-        serializedVersion: 2
-        x: 1940
-        y: 878
-        width: 353
-        height: 263
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3cfc128f885e6c630800000000000000
-      internalID: 3947094499878096835
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: EquipoAcidRain_EsqueletoLianas_44
-      rect:
-        serializedVersion: 2
-        x: 1289
-        y: 854
-        width: 8
-        height: 4
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9de7d88a598051a70800000000000000
-      internalID: 8796946886009126617
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: EquipoAcidRain_EsqueletoLianas_45
-      rect:
-        serializedVersion: 2
-        x: 1343
-        y: 848
-        width: 5
-        height: 5
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7a7266f76cf776e20800000000000000
-      internalID: 3343781738863536039
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: EquipoAcidRain_EsqueletoLianas_46
-      rect:
-        serializedVersion: 2
-        x: 1355
-        y: 845
-        width: 5
-        height: 6
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6344a3feda9ed5830800000000000000
-      internalID: 4061659372210242614
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: EquipoAcidRain_EsqueletoLianas_47
-      rect:
-        serializedVersion: 2
-        x: 11
-        y: 431
-        width: 362
-        height: 326
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ad8c06aa94fb9bca0800000000000000
-      internalID: -6000554705382487846
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: EquipoAcidRain_EsqueletoLianas_48
-      rect:
-        serializedVersion: 2
-        x: 431
-        y: 423
-        width: 326
-        height: 334
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 97075c4dd5589dc60800000000000000
-      internalID: 7843446864090591353
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: EquipoAcidRain_EsqueletoLianas_49
-      rect:
-        serializedVersion: 2
-        x: 902
-        y: 416
-        width: 239
-        height: 341
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a99b75b871715f650800000000000000
-      internalID: 6265939846445382042
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: EquipoAcidRain_EsqueletoLianas_50
-      rect:
-        serializedVersion: 2
-        x: 1292
-        y: 605
-        width: 5
-        height: 5
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bb79e14ae6786d490800000000000000
-      internalID: -7721835601810516037
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: EquipoAcidRain_EsqueletoLianas_51
-      rect:
-        serializedVersion: 2
-        x: 1298
-        y: 419
-        width: 227
-        height: 334
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 218333af113fbe300800000000000000
-      internalID: 282586660178442258
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: EquipoAcidRain_EsqueletoLianas_52
-      rect:
-        serializedVersion: 2
-        x: 1682
-        y: 605
-        width: 5
-        height: 5
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 40446390a025b09d0800000000000000
-      internalID: -2807059739677670396
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: EquipoAcidRain_EsqueletoLianas_53
-      rect:
-        serializedVersion: 2
-        x: 1688
-        y: 419
-        width: 221
-        height: 334
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f4e916c208d8233f0800000000000000
-      internalID: -922519392017605041
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: EquipoAcidRain_EsqueletoLianas_54
-      rect:
-        serializedVersion: 2
-        x: 2057
-        y: 419
-        width: 236
-        height: 334
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7cf2c4b4ed8b10180800000000000000
-      internalID: -9150829702954602553
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: EquipoAcidRain_EsqueletoLianas_55
-      rect:
-        serializedVersion: 2
-        x: 890
-        y: 549
-        width: 11
-        height: 10
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9446c0294d0e30ad0800000000000000
-      internalID: -2737096944923155383
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: EquipoAcidRain_EsqueletoLianas_56
-      rect:
-        serializedVersion: 2
-        x: 428
-        y: 494
-        width: 17
-        height: 17
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1cc46c002a1566010800000000000000
-      internalID: 1181721708470881473
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: EquipoAcidRain_EsqueletoLianas_57
-      rect:
-        serializedVersion: 2
-        x: 140
-        y: 221
-        width: 4
-        height: 5
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0e49f280df61148a0800000000000000
-      internalID: -6322747125831592736
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: EquipoAcidRain_EsqueletoLianas_58
-      rect:
-        serializedVersion: 2
-        x: 146
-        y: 35
-        width: 227
-        height: 335
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d99d9ed57af1e5350800000000000000
-      internalID: 6007273756654426525
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: EquipoAcidRain_EsqueletoLianas_59
-      rect:
-        serializedVersion: 2
-        x: 524
-        y: 221
-        width: 5
-        height: 5
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3b81668dbe13582f0800000000000000
-      internalID: -971315255610828621
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: EquipoAcidRain_EsqueletoLianas_60
-      rect:
-        serializedVersion: 2
-        x: 530
-        y: 35
-        width: 227
-        height: 335
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a27dab8aaf95b4af0800000000000000
-      internalID: -411136007866755286
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: EquipoAcidRain_EsqueletoLianas_61
-      rect:
-        serializedVersion: 2
-        x: 908
-        y: 221
-        width: 4
-        height: 5
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 026e041f27a2349c0800000000000000
-      internalID: -3944262175484221920
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: EquipoAcidRain_EsqueletoLianas_62
-      rect:
-        serializedVersion: 2
-        x: 914
-        y: 35
-        width: 227
-        height: 335
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3965377f05f9db1d0800000000000000
-      internalID: -3333332979086567789
+      spriteID: 881246f28fb03b690800000000000000
+      internalID: -7587707786614267512
       vertices: []
       indices: 
       edges: []

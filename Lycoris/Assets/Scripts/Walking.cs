@@ -30,6 +30,10 @@ public class Walking : MonoBehaviour
         walkRight = 2,
         jumping = 3,
         falling = 4,
+        transf = 5,
+        transfinverse = 6,
+        liana = 7,
+        death = 8,
 
     }
 
@@ -150,4 +154,20 @@ public class Walking : MonoBehaviour
             animator.SetInteger(animationState, (int)CharStates.idle);
         }
     }
+
+    private void Death ()
+    {
+        if (Input.GetKeyDown("A"))
+        {
+            animator.SetInteger(animationState, (int)CharStates.death);
+        } 
+        else if (Input.GetKeyDown("A") /* && el estado actual es death, porque no sé ponerlo */) {
+            animator.SetInteger(animationState, (int)CharStates.idle);
+        }
+    }
+
+
+
+
+
 }
