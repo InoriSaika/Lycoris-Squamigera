@@ -263,19 +263,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 172765585}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6a58779ca9d82534da46d359880c29e5, type: 3}
+  m_Script: {fileID: 11500000, guid: e496acc30e4f2f64fb0befd15c880033, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  platformsLayerMask:
-    serializedVersion: 2
-    m_Bits: 256
-  graphic: {fileID: 172765585}
-  movingForward: 0
-  movementSpeed: 10
-  JumpForce: 15
-  airControl: 1
-  airControlForce: 10
-  rb2D: {fileID: 172765587}
 --- !u!95 &172765591
 Animator:
   serializedVersion: 3
