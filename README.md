@@ -6,4 +6,3 @@ Compuesto por:
 - Laura García
 - Aroa Talens
 - Sergio Espino
-- Patricia Muñoz
